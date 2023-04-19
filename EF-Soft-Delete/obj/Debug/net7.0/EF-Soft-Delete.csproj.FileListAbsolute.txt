@@ -1,0 +1,12 @@
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\bin\Debug\net7.0\EF-Soft-Delete.deps.json
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\bin\Debug\net7.0\EF-Soft-Delete.dll
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\bin\Debug\net7.0\EF-Soft-Delete.pdb
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.csproj.AssemblyReference.cache
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.AssemblyInfoInputs.cache
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.AssemblyInfo.cs
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.csproj.CoreCompileInputs.cache
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.dll
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\refint\EF-Soft-Delete.dll
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\EF-Soft-Delete.pdb
+C:\Users\s.molaee.KNR\source\repos\EF-Soft-Delete\EF-Soft-Delete\obj\Debug\net7.0\ref\EF-Soft-Delete.dll
